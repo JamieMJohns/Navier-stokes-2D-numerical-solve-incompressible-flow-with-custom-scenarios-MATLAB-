@@ -6,7 +6,7 @@
  
 updates;<br />
 [11/01/2018] <br />
-So far aiming to have the code uploaded by 15/01/2018.
+So far aiming to have the code uploaded by 15/01/2018.<br />
 [7/01/2018] <br />
 I am still tidying up the code for upload to github(amongst doing other things), it has definitely taken much longer (in time) to tidy up the code than I thought it would take. <br />
 
